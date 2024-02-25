@@ -1,0 +1,11 @@
+*.o
+*.ppu
+*.swp
+*.svg
+*.dll
+*.exe
+*.lps
+*.tmp
+*.model
+backup/
+lib/
